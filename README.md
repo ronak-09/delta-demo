@@ -1,5 +1,3 @@
 # delta-demo
-this is a demo repo. hello ronak.
-hello 
-world
-virat
+this is a demo repo. hello ronak. hello
+jd pt
